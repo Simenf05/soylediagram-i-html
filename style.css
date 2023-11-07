@@ -1,0 +1,18 @@
+
+
+#soyler {
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.soyle {
+
+    background-color: red;
+    padding: 10px;
+
+}
+
+
+
