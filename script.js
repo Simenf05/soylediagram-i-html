@@ -16,8 +16,9 @@ function makeSoyle(data) {
     const soyleEl = document.createElement("div")
     soyleEl.className = "soyle"
 
-    soyleEl.innerText = year
+    const boysEl = document.createElement("div")
 
+    
 
     soylerEl.appendChild(soyleEl)
 
